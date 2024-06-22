@@ -1,0 +1,4 @@
+name: JsonNameWhitelist
+version: '${version}'
+main: caturn.dev.jsonnamewhitelist.JsonNameWhitelist
+api-version: '1.20'
